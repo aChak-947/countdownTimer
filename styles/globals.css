@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: greenyellow;
+}
+
+.App {
+  text-align: center;
+  font-size: 300px;
+}
